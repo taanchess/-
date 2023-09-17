@@ -16,6 +16,7 @@
     <label for="m">Процент скидки (m):</label>
     <input type="number" id="m" placeholder="Введите m">
     <br>
+    <br>
     <button onclick="calculate()">Рассчитать выгоду</button>
     <p>ВЫГОДА: <span id="result"></span></p>
 
