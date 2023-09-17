@@ -1,6 +1,3 @@
-# calc
-
-<!DOCTYPE html>
 <html>
 <head>
     <title>Калькулятор выгоды</title>
