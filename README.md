@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html>
 <head>
-    <title>Калькулятор выгоды</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
     <style>
         h1 {
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Montserrat', Medium;
         }
     </style>
 </head>
