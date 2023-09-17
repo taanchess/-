@@ -1,11 +1,18 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>Калькулятор выгоды</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <style>
+        h1 {
+            font-family: 'Montserrat', sans-serif;
+        }
+    </style>
 </head>
 <body>
     <h1>Калькулятор выгоды</h1>
     <br>
-    <p>Формула: N * 30 * S * (100 - m)/100 - 1990<p>
+    <p>Формула: N * 30 * S * ((100 - m) / 100) - 1990</p>
     <br>
     <label for="n">Количество нереализованной еды (N):</label>
     <input type="number" id="n" placeholder="Введите N">
