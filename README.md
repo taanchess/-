@@ -1,3 +1,5 @@
+$(".latex").latex();
+
 <html>
 <head>
     <title>Калькулятор выгоды</title>
@@ -7,6 +9,11 @@
     <br>
     <p>Формула: N * 30 * S * ((100 - m) / 100) - 1990</p>
     <br>
+
+    <div class="latex">  
+    \int_{0}^{\pi}\frac{x^{4}\left(1-x\right)^{4}}{1+x^{2}}dx =\frac{22}{7}-\pi  
+    </div>
+
     <label for="n">Количество нереализованной еды (N):</label>
     <input type="number" id="n" placeholder="Введите N">
     <br>
