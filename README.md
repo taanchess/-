@@ -1,5 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Калькулятор выгоды</title>
 </head>
 <body>
+    <h1>Калькулятор выгоды</h1>
     <br>
     <p>Формула: N * 30 * S * ((100 - m) / 100) - 1990</p>
     <br>
@@ -31,3 +36,4 @@
     </script>
 </body>
 </html>
+
