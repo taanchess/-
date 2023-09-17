@@ -18,8 +18,10 @@
     <br>
     <br>
     <button onclick="calculate()">Рассчитать выгоду</button>
+    <br>
+    <br>
     <p>ВЫГОДА: <span id="result"></span></p>
- <br>
+
 
     <script>
         function calculate() {
