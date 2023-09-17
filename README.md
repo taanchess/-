@@ -1,4 +1,3 @@
-<html>
 <head>
     <title>Калькулятор выгоды</title>
 </head>
@@ -34,5 +33,4 @@
         }
     </script>
 </body>
-</html>
 
