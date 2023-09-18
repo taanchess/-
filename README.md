@@ -7,7 +7,7 @@
     <br>
     <p>Формула: N * 30 * S * ((100 - m) / 100) - 1990</p>
     <br>
-    <label for="n">Количество нереализованной еды (N):</label>
+    <label for="n">Количество нереализованной еды в день (N):</label>
     <input type="number" id="n" placeholder="Введите N">
     <br>
     <label for="s">Средняя стоимость одного блюда (S):</label>
