@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>Калькулятор выгоды</title>
@@ -7,7 +8,7 @@
     <br>
     <p>Формула: N * 30 * S * ((100 - m) / 100) - 1990</p>
     <br>
-    <label for="n">Количество нереализованной еды в день (N):</label>
+    <label for="n">Количество нереализованной еды (N):</label>
     <input type="number" id="n" placeholder="Введите N">
     <br>
     <label for="s">Средняя стоимость одного блюда (S):</label>
@@ -22,6 +23,10 @@
     <br>
     <p>ВЫГОДА: <span id="result"></span></p>
 
+    <button onclick="redirectToKinoPub()">Перейти на KinoPub</button>
+    <br>
+    <br>
+    <button onclick="leaveRequest()">Оставить заявку</button>
 
     <script>
         function calculate() {
@@ -35,7 +40,8 @@
 
             // Отображаем результат на странице
             document.getElementById("result").textContent = result;
- }
+        }
+
         function redirectToKinoPub() {
             window.location.href = "https://kino.pub/item/view/25523/s1e12";
         }
