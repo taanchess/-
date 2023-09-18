@@ -36,7 +36,6 @@
             // Отображаем результат на странице
             document.getElementById("result").textContent = result;
  }
-
         function redirectToKinoPub() {
             window.location.href = "https://kino.pub/item/view/25523/s1e12";
         }
