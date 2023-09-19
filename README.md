@@ -27,7 +27,7 @@
     <input type="number" id="m" placeholder="Введите m">
     <br>
     <br>
-    <button onclick="calculate()" style="width: 650px; height: 127px; border-radius: 137px; background: #E7410D; color: white; font-size: 24px;">Рассчитать выгоду</button>
+    <button onclick="calculate()" style="width: 214px; height: 41px; border-radius: 30px; background: #E7410D; color: white; font-size: 14px;">Рассчитать выгоду</button>
     <br>
     <br>
     <p>ВЫГОДА: <span id="result"></span></p>
