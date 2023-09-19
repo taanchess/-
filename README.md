@@ -22,11 +22,11 @@
     <br>
     <br>
     <label for="s">Средняя стоимость одного блюда, в рублях (S):</label>
-    <input type="number" id="n" placeholder=" Введите s" style="border-radius: 10px;">
+    <input type="number" id="s" placeholder=" Введите s" style="border-radius: 10px;">
     <br>
     <br>
     <label for="m">Процент скидки (m):</label>
-    <input type="number" id="n" placeholder=" Введите m" style="border-radius: 10px;">
+    <input type="number" id="m" placeholder=" Введите m" style="border-radius: 10px;">
     <br>
     <br>
     <br>
