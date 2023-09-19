@@ -42,12 +42,8 @@
             document.getElementById("result").textContent = result;
         }
 
-        function redirectToKinoPub() {
-            window.location.href = "https://kino.pub/item/view/25523/s1e12";
-        }
-
         function leaveRequest() {
-            window.location.href = "ссылка_на_вашу_страницу_с_заявкой.html"; // Замените ссылку на вашу страницу с заявкой
+            window.location.href = "https://b24-0kqxlb.bitrix24site.ru";
         }
     </script>
 </body>
