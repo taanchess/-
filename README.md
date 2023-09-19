@@ -23,8 +23,6 @@
     <br>
     <p>ВЫГОДА: <span id="result"></span></p>
 
-    <button onclick="redirectToKinoPub()">Перейти на KinoPub</button>
-    <br>
     <br>
     <button onclick="leaveRequest()">Оставить заявку</button>
 
