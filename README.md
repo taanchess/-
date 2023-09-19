@@ -17,14 +17,17 @@
     <br>
     <p>Формула: N * 30 * S * ((100 - m) / 100) - 1990</p>
     <br>
-    <label for="n">Количество нереализованной еды в день, в блюдах (N):</label>
-    <input type="number" id="n" placeholder="Введите N">
+    <label for="n">Количество нереализованной еды в день, в блюдах (N):</label> 
+    <input type="number" id="n" placeholder="Введите N" style="border-radius: 30px;">
+    <br>
     <br>
     <label for="s">Средняя стоимость одного блюда, в рублях (S):</label>
-    <input type="number" id="s" placeholder="Введите S">
+    <input type="number" id="n" placeholder="Введите S" style="border-radius: 30px;">
+    <br>
     <br>
     <label for="m">Процент скидки (m):</label>
-    <input type="number" id="m" placeholder="Введите m">
+    <input type="number" id="n" placeholder="Введите m" style="border-radius: 30px;">
+    <br>
     <br>
     <br>
     <button onclick="calculate()" style="width: 214px; height: 41px; border-radius: 30px; background: #E7410D; color: white; font-size: 16px;">Рассчитать выгоду</button>
